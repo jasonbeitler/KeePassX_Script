@@ -3,7 +3,7 @@
 This is just a very simple script to open multiple KeePassX DB's. 
 <BR>
 <BR>
-Note in KeePassX 2 there is no real need for this as you can open multiple DB's. However there could be an instance where you ned to open a DB in a seperate instance. This is where this script comes in handy.
+Note in KeePassX 2 there is no real need for this as you can open multiple DB's. However there could be an instance where you need to open a DB in a seperate instance. That is where this script comes in handy.
 <BR>
 <BR>
 **Works on** 
