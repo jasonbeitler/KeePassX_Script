@@ -10,8 +10,8 @@ Note in KeePassX 2 there is no real need for this as you can open multiple DB's.
  * All *nix OS's
 <BR>
 <BR>
-1. Downlaod script
-2. Move script to a safe location
-3. Open the script in a text editor (vi, vim, submimetext, nano) and change the path
-4. Make the script excutitable ($chmod +x /path-to-script)
-5.Setup an alias to launch the script
+* Downlaod script<BR>
+* Move script to a safe location<BR>
+* Open the script in a text editor (vi, vim, submimetext, nano) and change the path<BR>
+* Make the script excutitable ($chmod +x /path-to-script)<BR>
+* Setup an alias to launch the script<BR>
